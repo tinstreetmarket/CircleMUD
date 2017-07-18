@@ -3,3 +3,13 @@ config.cache
 config.status
 src/conf.h
 src/util/Makefile
+
+src/*.o
+src/.accepted
+bin
+
+log
+syslog
+syslog.CRASH
+
+lib/plrobjs/**/*.objs
